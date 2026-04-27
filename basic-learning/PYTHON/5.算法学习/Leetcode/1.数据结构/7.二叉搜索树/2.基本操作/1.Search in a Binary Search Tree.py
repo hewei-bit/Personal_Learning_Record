@@ -1,0 +1,32 @@
+class TreeNode:
+    def __init__(self,x):
+        self.val = x
+        self.left = None
+        self.right = None
+
+
+class Solution:
+    def searchBST(self, root: TreeNode, val: int) -> TreeNode:
+        if not root:
+            return None
+        if root.val == val:
+            return root
+        if root.val < val:
+            return self.searchBST(root.right,val)
+        if root.val > val:
+            return self.searchBST(root.left,val)
+
+
+
+
+
+if __name__ == '__main__':
+    a = TreeNode(1)
+    b = TreeNode(2)
+    c = TreeNode(4)
+    d = TreeNode(3)
+    e = TreeNode(5)
+    b.left = a
+    b.right = c
+    c.left = d
+    c.right = e

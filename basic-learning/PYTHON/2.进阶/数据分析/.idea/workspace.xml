@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d7c3146-4bc3-4bd3-8176-2c06d56c8c9b" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/PythonLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../入门/从入门到实践/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/分类/A.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/分类/B.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/分类/C.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/分类/D.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/分类/E.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/分类/XYZ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/分类/dataset.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/分类/stock/000777.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/回归/prices.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/回归/岭回归.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/基于聚类的整图分割/bull.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/基于聚类的整图分割/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/强化学习/下载地址.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/手写数字/digits.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/聚类/31省市居民家庭消费水平-city.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/mooc课程数据/课程数据/聚类/学生月上网时间分布-TestData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络爬虫/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络爬虫/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络爬虫/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络爬虫/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络爬虫/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../网络爬虫/.idea/网络爬虫.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../动手实践/2.上位机开发/20-03-15 03-20-58_111" beforeDir="false" afterPath="$PROJECT_DIR$/../../入门/从入门到实践/my_car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numlearn.py" beforeDir="false" afterPath="$PROJECT_DIR$/0-ndarray.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1QRidqRzhdyBELR9qnOtsF4ZIqZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Desktop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d7c3146-4bc3-4bd3-8176-2c06d56c8c9b" name="默认更改列表" comment="" />
+      <created>1567739900123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567739900123</updated>
+      <workItem from="1567739911128" duration="2000" />
+      <workItem from="1567739952714" duration="2000" />
+      <workItem from="1567740062338" duration="154000" />
+      <workItem from="1567740307347" duration="15510000" />
+      <workItem from="1583893730982" duration="54000" />
+      <workItem from="1584461058163" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="163" key="FileChooserDialogImpl" timestamp="1584461288110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="163" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584461288110" />
+    <state x="337" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1584461268003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="337" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584461268003" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Desktop$text.coverage" NAME="text Coverage Results" MODIFIED="1568016145883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
