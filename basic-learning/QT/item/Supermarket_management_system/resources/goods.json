@@ -1,0 +1,166 @@
+{
+    "shoparray": [
+        {
+            "ID": 1001,
+            "cost": 22,
+            "name": "洗发水",
+            "price": 30,
+            "quantity": 168,
+            "species": "日用品",
+            "unit": "瓶"
+        },
+        {
+            "ID": 1002,
+            "cost": 3,
+            "name": "肥皂",
+            "price": 5,
+            "quantity": 180,
+            "species": "日用品",
+            "unit": "个"
+        },
+        {
+            "ID": 1003,
+            "cost": 10,
+            "name": "毛巾",
+            "price": 20,
+            "quantity": 124,
+            "species": "日用品",
+            "unit": "条"
+        },
+        {
+            "ID": 1004,
+            "cost": 2000,
+            "name": "电脑",
+            "price": 3000,
+            "quantity": 5,
+            "species": "电子产品",
+            "unit": "台"
+        },
+        {
+            "ID": 1005,
+            "cost": 1200,
+            "name": "手机",
+            "price": 1500,
+            "quantity": 61,
+            "species": "电子产品",
+            "unit": "台"
+        },
+        {
+            "ID": 1006,
+            "cost": 500,
+            "name": "手表",
+            "price": 600,
+            "quantity": 20,
+            "species": "电子产品",
+            "unit": "个"
+        },
+        {
+            "ID": 1007,
+            "cost": 5,
+            "name": "薯片",
+            "price": 6,
+            "quantity": 2953,
+            "species": "食物",
+            "unit": "包"
+        },
+        {
+            "ID": 1008,
+            "cost": 30,
+            "name": "牛肉",
+            "price": 33,
+            "quantity": 368,
+            "species": "食物",
+            "unit": "斤"
+        },
+        {
+            "ID": 1009,
+            "cost": 12,
+            "name": "猪肉",
+            "price": 20,
+            "quantity": 532,
+            "species": "食物",
+            "unit": "斤"
+        },
+        {
+            "ID": 1010,
+            "cost": 5,
+            "name": "苹果",
+            "price": 6,
+            "quantity": 96,
+            "species": "食物",
+            "unit": "斤"
+        },
+        {
+            "ID": 1011,
+            "cost": 10,
+            "name": "红龙果",
+            "price": 12,
+            "quantity": 113,
+            "species": "食物",
+            "unit": "斤"
+        },
+        {
+            "ID": 1012,
+            "cost": 1,
+            "name": "西瓜",
+            "price": 2,
+            "quantity": 988,
+            "species": "食物",
+            "unit": "斤"
+        },
+        {
+            "ID": 1013,
+            "cost": 5,
+            "name": "香蕉",
+            "price": 7,
+            "quantity": 968,
+            "species": "食物",
+            "unit": "斤"
+        },
+        {
+            "ID": 1014,
+            "cost": 5,
+            "name": "梨",
+            "price": 7,
+            "quantity": 979,
+            "species": "食物",
+            "unit": "斤"
+        },
+        {
+            "ID": 1015,
+            "cost": 30,
+            "name": "羊肉",
+            "price": 40,
+            "quantity": 98,
+            "species": "食物",
+            "unit": "斤"
+        },
+        {
+            "ID": 1016,
+            "cost": 20,
+            "name": "榴莲",
+            "price": 25,
+            "quantity": 110,
+            "species": "食物",
+            "unit": "斤"
+        },
+        {
+            "ID": 1017,
+            "cost": 20,
+            "name": "芒果",
+            "price": 25,
+            "quantity": 100,
+            "species": "食物",
+            "unit": "斤"
+        },
+        {
+            "ID": 1017,
+            "cost": 20,
+            "name": "芒果",
+            "price": 25,
+            "quantity": 100,
+            "species": "食物",
+            "unit": "斤"
+        }
+    ]
+}

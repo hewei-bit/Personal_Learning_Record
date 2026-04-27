@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/calculatro.ico</file>
+    </qresource>
+</RCC>

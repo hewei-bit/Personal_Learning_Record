@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>11.txt</file>
+        <file>film.json</file>
+    </qresource>
+</RCC>
