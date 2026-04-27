@@ -1,0 +1,46 @@
+
+vpath %.c = src/server/:src/
+vpath %.o = bin/
+vpath %.h = include/
+
+A=bin/server.o
+B=bin/IO.o 
+C=bin/client_list.o 
+D=bin/GUI.o
+E=bin/thread_pool.o
+F=bin/user.o
+
+OBJ = server.o client_list.o GUI.o IO.o thread_pool.o user.o
+
+
+G:=$(A) $(B) $(C) $(D) $(E) $(F)
+
+
+CFLAGS=-Wall
+
+
+
+bin/server:$(G)
+	$(CC) $(^) -o $(@) -I include -lpthread $(CFLAGS)
+
+bin/server.o:server.c
+	$(CC) $(<) -o $(@) -c -I include
+
+bin/client_list.o:client_list.c
+	$(CC) $(<) -o $(@) -c -I include
+
+bin/GUI.o:GUI.c
+	$(CC) $(<) -o $(@) -c -I include
+
+bin/IO.o:IO.c
+	$(CC) $(<) -o $(@) -c -I include
+
+bin/user.o:user.c
+	$(CC) $(<) -o $(@) -c -I include
+
+bin/thread_pool.o:thread_pool.c
+	$(CC) $(<) -o $(@) -c -I include
+
+clean:
+	$(RM) bin/*
+

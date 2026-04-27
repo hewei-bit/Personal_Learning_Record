@@ -1,0 +1,44 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+FIRST_CAR	main.h	/^typedef MARKET_CAR FIRST_CAR;$/;"	t
+List	main.h	/^typedef PtrToGoods List;$/;"	t
+MARKET_CAR	main.h	/^typedef struct market_car * MARKET_CAR;$/;"	t	typeref:struct:market_car
+MARKET_H	main.h	2;"	d
+Manager	main.h	/^struct Manager$/;"	s
+Manager_Login	goods_manager.c	/^int Manager_Login()$/;"	f
+Manager_UI	goods_manager.c	/^int Manager_UI(int choice)$/;"	f
+Managercode	main.h	/^    int Managercode;  $/;"	m	struct:Manager
+Managername	main.h	/^    char Managername[20];$/;"	m	struct:Manager
+Next	main.h	/^    PtrToGoods Next;$/;"	m	struct:goods
+Next	main.h	/^    PtrToManagers Next;$/;"	m	struct:Manager
+Next	main.h	/^    PtrToUsers Next;$/;"	m	struct:user
+Position	main.h	/^typedef PtrToGoods Position;$/;"	t
+PtrToGoods	main.h	/^typedef struct goods *PtrToGoods;\/\/商品属性$/;"	t	typeref:struct:goods
+PtrToManagers	main.h	/^typedef struct Manager *PtrToManagers;$/;"	t	typeref:struct:Manager
+PtrToUsers	main.h	/^typedef struct user *PtrToUsers;$/;"	t	typeref:struct:user
+User_Login	market_car.c	/^void User_Login()$/;"	f
+User_UI	market_car.c	/^int User_UI(int choice)$/;"	f
+__MANAGER_H	goods_manager.h	2;"	d
+__MARKET_CAR	market_car.h	2;"	d
+addToCar	market_car.c	/^PtrToGoods addToCar(MARKET_CAR M,PtrToGoods G)\/\/将商品加入购物车$/;"	f
+buy	main.h	/^    PtrToGoods buy;\/\/货物列表$/;"	m	struct:market_car
+change_UserName	market_car.c	/^void change_UserName()\/\/修改用户密码$/;"	f
+checkGoodsFromCar	market_car.c	/^void checkGoodsFromCar(MARKET_CAR M)\/\/查看购物车商品价格、优惠及总价$/;"	f
+code	main.h	/^    int code;\/\/商品编号$/;"	m	struct:goods
+deleteFromCar	market_car.c	/^_Bool deleteFromCar(MARKET_CAR M,PtrToGoods G)\/\/从购物车删除商品$/;"	f
+discount	main.h	/^    float discount;\/\/商品折扣$/;"	m	struct:goods
+establish_warehouse	goods_manager.c	/^void establish_warehouse()\/\/建立库存$/;"	f
+goods	main.h	/^struct goods{$/;"	s
+goodsname	main.h	/^    char goodsname[20];\/\/商品名$/;"	m	struct:goods
+main	main.c	/^int main()$/;"	f
+market_car	main.h	/^struct market_car$/;"	s
+next	main.h	/^    struct market_car *next;$/;"	m	struct:market_car	typeref:struct:market_car::market_car
+number	main.h	/^    int number;\/\/购物数量$/;"	m	struct:market_car
+prize	main.h	/^    int prize;\/\/商品价格$/;"	m	struct:goods
+user	main.h	/^struct user{$/;"	s
+usercode	main.h	/^    int usercode;  $/;"	m	struct:user
+username	main.h	/^    char username[20];$/;"	m	struct:user
